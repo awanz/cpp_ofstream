@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667344337 source:c:\users\awan\videos\cpp_ofstream\main.cpp
+	<iostream>
+	<fstream>
+
